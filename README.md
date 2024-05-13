@@ -1,1 +1,2 @@
-# ExLlama WebSocket API for JS
+# ExLlamav2 WebSocket API for JS
+Very simple WebSocket API client written in JavaScript for connecting to [ExLlamav2 WebSocket server](https://github.com/turboderp/exllamav2/blob/master/exllamav2/server/websocket.py). Handles `streaming` and `non-streaming` requests.

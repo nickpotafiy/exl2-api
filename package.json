@@ -1,0 +1,30 @@
+{
+  "name": "exl2-api",
+  "version": "1.0.0",
+  "description": "A websocket API client compatible with ExLlamav2.",
+  "main": "exl2-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpotafiy/exl2-api.git"
+  },
+  "keywords": [
+    "llama",
+    "exllama",
+    "exllamav2",
+    "client",
+    "api",
+    "js"
+  ],
+  "author": "Nick Potafiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickpotafiy/exl2-api/issues"
+  },
+  "homepage": "https://github.com/nickpotafiy/exl2-api#readme",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}

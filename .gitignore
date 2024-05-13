@@ -28,3 +28,4 @@ Thumbs.db
 # Ignore sensitive or personal information
 secrets.txt
 credentials.json
+package-lock.json
